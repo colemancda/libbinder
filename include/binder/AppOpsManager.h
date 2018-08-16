@@ -19,7 +19,7 @@
 
 #include <binder/IAppOpsService.h>
 
-#include <utils/threads.h>
+#include <utils/Mutex.h>
 
 // ---------------------------------------------------------------------------
 namespace android {

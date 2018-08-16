@@ -19,7 +19,7 @@
 
 #include <binder/IBinder.h>
 #include <utils/KeyedVector.h>
-#include <utils/threads.h>
+#include <utils/Mutex.h>
 
 // ---------------------------------------------------------------------------
 namespace android {
